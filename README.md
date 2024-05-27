@@ -23,7 +23,7 @@ This project is a Java-based web application designed to manage electricity usag
 1. **Clone the repository**:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Sabarivasan-Velayutham/ElectricityBilling_ServletsProject.git
     ```
 
 2. **Navigate to the project directory**:
